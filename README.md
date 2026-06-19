@@ -1,1 +1,1 @@
-# Fair Multi Fusion prototype For REsearch Paper
+# Fair Multi Fusion prototype For Research Paper
